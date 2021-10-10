@@ -17,7 +17,7 @@ header, footer{
 .squares{
     list-style-type: square;
 }
-ul li:nth :nth-child(odd){
+ul li:nth-child(odd){
     background-color: rgb(171, 238, 240);
 }
 a:link{
