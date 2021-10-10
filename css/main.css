@@ -6,3 +6,11 @@ body{
 header, footer{
     background-color:lightskyblue;
 }
+/* adding colour to header */
+.self-title{
+    color:palevioletred;
+}
+/* adding box shadow id to image */
+#my-image{
+    box-shadow: 2px 1px #000
+}
