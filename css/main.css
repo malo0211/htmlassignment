@@ -8,9 +8,12 @@ header, footer{
 }
 /* adding colour to header */
 .self-title{
-    color:palevioletred;
+    color:rgb(112, 166, 216);
 }
 /* adding box shadow id to image */
 #my-image{
     box-shadow: 2px 1px #000
+}
+.squares{
+    list-style-type: square;
 }
