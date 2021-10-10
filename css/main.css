@@ -3,6 +3,6 @@ body{
     font-size: 18px;
 }
 /* adding background colour to header and footer */
-head, footer{
-    background-color:darkslateblue;
+header, footer{
+    background-color:lightskyblue;
 }
