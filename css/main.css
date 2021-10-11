@@ -18,14 +18,19 @@ header, footer{
     list-style-type: square;
 }
 ul li:nth-child(odd){
-    background-color: rgb(171, 238, 240);
+    background-color: rgb(129, 194, 247);
 }
 a:link{
     text-decoration: none;
-    background-color: rgb(26, 117, 192);
+    background-color: rgb(129, 194, 247);
     color: white;
     border-style: dotted;
 }
 a:hover{
     background-color: rgb(0, 62, 87);
+    color: white;
+}
+#random {
+    background-color: rgb(129, 194, 247);
+    color:rgb(0, 62, 87);
 }
